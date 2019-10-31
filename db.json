@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "IT/ TELECOM": {
+        "name": "IT/ TELECOM",
+        "data": [
+            [
+                "IT HARDWARE",
+                18
+            ],
+            [
+                "IT SERVICES",
+                17
+            ],
+            [
+                "TELECOM SERVICES",
+                27
+            ],
+            [
+                "IT SOFTWARE & SUPPORT",
+                16
+            ],
+            [
+                "OTHER IT/TELECOM",
+                70
+            ],
+            [
+                "TELECOM EQUIPMENT",
+                39
+            ]
+        ]
+    }
 }
